@@ -1,10 +1,10 @@
 {
-  "name": "hackathon-starter",
+  "name": "starter-node-angular",
   "version": "6.1.0",
   "description": "A boilerplate for Node.js web applications",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sahat/hackathon-starter.git"
+    "url": "https://github.com/T0N-T0N/starter-node-angular"
   },
   "license": "MIT",
   "author": "Sahat Yalkabov",
